@@ -169,3 +169,6 @@ background: rgba(0, 0, 0, 0.20);
   font-weight: 400;
   line-height: 2; /* 200% */
 }
+.last{
+    background: #000;
+}
